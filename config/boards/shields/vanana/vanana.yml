@@ -1,0 +1,8 @@
+file_format: "1"
+id: vanana
+name: VANANA
+type: shield
+url: https://github.com/
+requires: [pro_micro]
+features:
+  - keys
